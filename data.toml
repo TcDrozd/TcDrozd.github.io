@@ -1,7 +1,7 @@
 name = "Trevor Drozd"
 description = "description"
 keywords = "key, words, comma, separated"
-image = ""
+image = "/dist/img.me.jpg"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
@@ -9,22 +9,22 @@ gtag_id = ""
 base_url = "https://TcDrozd.github.io"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Section Title"
+description = "Here are some of my items"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
+title = "Item 1"
+description = "Description of Item 1"
+url = "https://tcdrozd.github.io"
 [[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
+title = "Item 2"
+description = "Description of Item 2"
+url = "https://tcdrozd.github.io"
 [[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
+title = "Item 3"
+description = "Description of Item 3"
+url = "https://tcdrozd.github.io"
 
 [[sections]]
 title = "Links"
