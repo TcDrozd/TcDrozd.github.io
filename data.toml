@@ -1,7 +1,7 @@
 name = "Trevor Drozd"
 description = "description"
 keywords = "key, words, comma, separated"
-image = "/dist/img.me.jpg"
+image = "/dist/img/me.jpg"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
