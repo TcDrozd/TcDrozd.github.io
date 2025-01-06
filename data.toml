@@ -1,12 +1,12 @@
-name = "Jackie Gyllenroom"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
+name = "Trevor Drozd"
+description = "description"
+keywords = "key, words, comma, separated"
+image = ""
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
 gtag_id = "G-33WB8LVHR6"
-base_url = "https://thevahidal.github.io/jake"
+base_url = "https://tcdrozd.github.io/tcd"
 
 [[sections]]
 title = "Movies"
